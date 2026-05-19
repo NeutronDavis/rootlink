@@ -979,6 +979,10 @@ ul {
     .hero-title { font-size: 2.5rem; }
     .section-title { font-size: 2rem; }
     
+    .hero-phone-img {
+        width: 250px;
+    }
+    
     .features-grid { grid-template-columns: 1fr; }
     .values-grid { grid-template-columns: 1fr; }
     .footer-grid { grid-template-columns: 1fr; }
