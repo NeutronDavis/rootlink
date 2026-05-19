@@ -965,6 +965,7 @@ ul {
     .hero-title { font-size: 3rem; }
     .hero-container { flex-direction: column; text-align: center; }
     .hero-content { max-width: 100%; }
+    .hero-users { justify-content: center; }
     .hero-image-wrapper { width: 100%; margin-top: 40px; }
     .floating-badge { display: none; }
     
